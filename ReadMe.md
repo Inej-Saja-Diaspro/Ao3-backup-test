@@ -10,4 +10,4 @@ testing
 
 #updates
 
-added Epub folder> Teen rating folder and Mature rating Folder
+added Epub folder> Teen rating folder and Mature rating Folder - 2026/10/29 2242 PST
