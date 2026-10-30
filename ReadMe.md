@@ -8,8 +8,10 @@ testing
 - implement tags if possible
 - make the names as clear as possible
 
-#updates
+## updates
 
 added Epub folder> Teen rating folder and Mature rating Folder - 2026/10/29 2242 PST
 
 figured out/remembered that Calibre can bulk convert from one format to another. converting all of the EPUB i have to PDF soon.
+
+Added PDFs shared by Cyra on Flex server
