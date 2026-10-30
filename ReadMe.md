@@ -1,1 +1,9 @@
 testing
+
+# general plan:
+
+- first folders by fandom
+- second folders per file-type
+- then each with subforlders per rating
+- implement tags if possible
+- make the names as clear as possible
