@@ -23,3 +23,5 @@ figured out/remembered that Calibre can bulk convert from one format to another.
 Added PDFs shared by Cyra on Flex server
 
 Added other fandoms PDFs
+
+Added SPOP Epubs
