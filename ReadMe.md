@@ -10,6 +10,10 @@ Welcome to this attempt at backing up our Ao3 works!
 If u have a GitHub acc feel free to ask to be included. Alternatively, you can provide any of the current collaborators the files you'd like to see added
 ###### -> We're only uploading files directly downloaded from Ao3 for the moment, not files from the og authors themselves.
 
+##### Disclaimer:
+Since it's a manual job, the truth is there _might_ be misplaced fics (mostly among the PDFs, they are over 3k) that could be in the wrong rating folder.
+If you find something misplaced, something duplicated, etc, please let us know.
+
 ### updates
 
 added Epub folder> Teen rating folder and Mature rating Folder - 2026/10/29 2242 PST
@@ -19,3 +23,5 @@ figured out/remembered that Calibre can bulk convert from one format to another.
 Added PDFs shared by Cyra on Flex server
 
 Added other fandoms PDFs
+
+Added SPOP Epubs
